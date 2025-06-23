@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartBinocularsApp</string>
+    <string name="profile_image">Profile image</string>
+    <string name="logo_description">logo</string>
+    <string name="username">Account name</string>
+    <string name="display_name">Display Name</string>
+    <string name="change_account_name">Change Account Name</string>
+    <string name="change_password">Change Password</string>
+    <string name="save">Save</string>
+</resources>
